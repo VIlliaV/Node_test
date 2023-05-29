@@ -1,0 +1,26 @@
+{
+  "name": "node_test",
+  "version": "1.0.0",
+  "main": "app1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VIlliaV/Node_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/VIlliaV/Node_test/issues"
+  },
+  "homepage": "https://github.com/VIlliaV/Node_test#readme",
+  "description": ""
+}
